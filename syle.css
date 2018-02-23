@@ -1,0 +1,20 @@
+body
+{
+	background-color: tomato;
+}
+form,h2,h1
+{
+	text-align: center;
+}
+button 
+{
+	background-color: green;
+}
+h2
+{
+	color:red;
+}
+h1
+{
+	color: blue;
+}
